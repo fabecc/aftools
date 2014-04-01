@@ -24,3 +24,6 @@ proguard/
 
 # Temporary file
 *~
+
+# Maven
+target

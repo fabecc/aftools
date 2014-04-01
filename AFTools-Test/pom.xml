@@ -53,8 +53,8 @@
 
 
         <dependency>
-            <groupId>com.embarkmobile.androidexample</groupId>
-            <artifactId>androidexample-lib</artifactId>
+            <groupId>com.android.aft</groupId>
+            <artifactId>aftools-lib</artifactId>
             <version>1.0.0-SNAPSHOT</version>
             <scope>compile</scope>
             <type>apklib</type>

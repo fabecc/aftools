@@ -22,7 +22,10 @@
         <uses-library android:name="android.test.runner" />        
     </application>
 
-	<instrumentation android:label="Android Maven Tests" android:name="android.test.InstrumentationTestRunner" android:targetPackage="com.android.aft.test">
+	<instrumentation
+	     android:label="Android Maven Tests"
+	     android:name="android.test.InstrumentationTestRunner"
+	     android:targetPackage="com.android.aft.test">
     </instrumentation>
     
     

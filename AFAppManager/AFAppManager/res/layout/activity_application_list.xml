@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:textSize="14sp"
+        android:layout_margin="10dp"
+        android:text="@string/select_app" />
+        
+    <View
+        android:id="@+id/separator"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/textView1"
+        android:background="@android:color/darker_gray"/>
+    
+    <ListView
+        android:id="@+id/listApplication"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/separator" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/emptyList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/separator"
+        android:gravity="center"
+        android:text="@string/error_no_app"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

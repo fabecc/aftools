@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/button_update"
+        android:icon="@drawable/ic_update"
+        android:showAsAction="always"
+        android:title="@string/update_niji_config"/>
+   
+    <item
+        android:id="@+id/button_reload"
+        android:icon="@drawable/ic_reload"
+        android:showAsAction="always"
+        android:title="@string/reset"/>
+    
+</menu>

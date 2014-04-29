@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/imgAppEntry"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:padding="8dp"
+        android:src="@drawable/no_icon" />
+
+    <TextView
+        android:id="@+id/textAppEntry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/imgAppEntry"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="Monapp"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textAppExtraEntry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textAppEntry"
+        android:layout_below="@+id/textAppEntry"
+        android:layout_marginTop="4dp"
+        android:textSize="12sp"
+        android:text="version" />
+
+</RelativeLayout>

@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/button_settings"
+        android:icon="@drawable/ic_settings"
+        android:showAsAction="always"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/button_reload"
+        android:icon="@drawable/ic_reload"
+        android:showAsAction="always"
+        android:title="@string/reset"/>
+    <item
+        android:id="@+id/button_save"
+        android:icon="@drawable/ic_save"
+        android:showAsAction="always"
+        android:title="@string/save"/>
+    <item
+        android:id="@+id/button_launch"
+        android:icon="@drawable/ic_launch"
+        android:showAsAction="always"
+        android:title="@string/run"/>
+    <item
+        android:id="@+id/button_uninstall"
+        android:icon="@drawable/ic_uninstall"
+        android:showAsAction="always"
+        android:title="@string/uninstall"/>
+
+</menu>

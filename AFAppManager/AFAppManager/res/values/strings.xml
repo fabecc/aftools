@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AFAppManager</string>
+    
+    <string name="config_of">Configuration de %s</string>
+    <string name="select_app">Choisissez votre application à configurer parmi la liste de vos applications installées</string>
+    <string name="settings">Réglages</string>
+    <string name="run">Exécuter</string>
+    <string name="save">Sauvegarde</string>
+    <string name="reset">Recharger</string>
+    <string name="uninstall">Désinstaller</string>
+    <string name="update_niji_config">Mise à jour de AFAppManager</string>
+        
+    <string name="saveConfirm">Voulez-vous enregistrer les changements?</string>
+    <string name="saveConfirmYes">Oui, merci!</string>
+    <string name="saveConfirmNo">Non, les changements seront perdus</string>
+    
+    <string name="ask_unistall_app">Voulez-vous désintaller l\'application %s ?</string>
+    
+    <string name="error_no_app">Il n\'y a pas d\'application installée configurable par AFAppManager</string>
+    
+</resources>

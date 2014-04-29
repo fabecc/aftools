@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cityzi>
+    <config Url_assistance="http://wap.bouygtel.fr/brw/cityzi_aide.php"
+            Villes_eligible="Nice et Strasbourg."
+            Non_nfc_SIM=""
+            Url_server="http://enablers.bouygtel.fr/cityzi/update.php" />
+    <network X-LM="GP" X-RDS="" X-RIH="" />
+</cityzi>

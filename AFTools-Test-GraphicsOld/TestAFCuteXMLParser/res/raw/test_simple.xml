@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<a xmlns:b="http://www.w3.org/TR/html4/">
+<!--  comment -->
+	<b:b at_1="value_1" at_2='foo'>deded
+		<b1><![CDATA[bla <no_tag>test</no_tag>bla]]></b1>
+		<b2/>
+	</b:b>
+	<e foo="ffez"/>
+	<d>foo</d>
+</a>

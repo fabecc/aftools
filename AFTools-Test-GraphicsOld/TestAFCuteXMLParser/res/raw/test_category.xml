@@ -1,0 +1,326 @@
+<?xml version="1.0"?>
+<SOAP>a
+	<Envelop>
+		<getCategoriesResponse>
+			<Category>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+					<additionnalData>
+						<categoryIdBis>MBis-48</categoryIdBis>
+					</additionnalData>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<parentRef>
+						<initialRef>ISB-345</initialRef>
+					</parentRef>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<parentOne>
+						<parentTwo>
+							<element>Element son of</element>
+						</parentTwo>
+					</parentOne>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>M-48</categoryId>
+					<categoryName>Foot</categoryName>
+					<description>Le foot</description>
+					<hasChild>0</hasChild>
+				</return>
+				<return>
+					<categoryId>L-4187</categoryId>
+					<categoryName>Tennis</categoryName>
+					<description>Le tennis</description>
+					<hasChild>1</hasChild>
+				</return>
+				<return>
+					<categoryId>K-218</categoryId>
+					<categoryName>Equitation</categoryName>
+					<description>Le cheval</description>
+					<hasChild>0</hasChild>
+				</return>
+			</Category>
+		</getCategoriesResponse>
+	</Envelop>
+</SOAP>

@@ -1,0 +1,17 @@
+{
+	"root_value":456,
+	"menu":
+	{
+		"id": 44562,
+		"value": "File",
+		"test":true,
+		"ici":null,
+		"popup":
+		{
+			"menuitem":
+			[
+				"value", "CreateNewDoc()"
+			]
+		}
+	}
+}

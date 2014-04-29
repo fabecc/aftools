@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/config_host"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:text="Host: ?" />
+
+    <TextView
+        android:id="@+id/config_port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/config_host"
+        android:text="Port: ?" />
+
+    <TextView
+        android:id="@+id/config_request"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/config_port"
+        android:text="Request: ?" />
+
+    <TextView
+        android:id="@+id/config_user_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/config_request"
+        android:text="User Id: ?" />
+    
+    <TextView
+        android:id="@+id/config_mode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/config_user_id"
+        android:text="Mode: ?" />
+
+    <TextView
+        android:id="@+id/config_connect_at_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/config_mode"
+        android:text="ConnectAtStart: ?" />
+    
+</RelativeLayout>

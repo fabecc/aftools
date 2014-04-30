@@ -642,7 +642,7 @@ public class DebugTools {
         public TimeLogger(String task) {
             // Starting date
             this.task = task;
-            start =  new Date().getTime();
+            start = System.currentTimeMillis();
 
             d("----> Start task '" + task + "' ...");
         }
@@ -654,7 +654,7 @@ public class DebugTools {
             ++step;
 
             // Ending date
-            long end = new Date().getTime();
+            long end = System.currentTimeMillis();
             long diff = end - start;
             if (android.text.TextUtils.isEmpty(desc))
                 d("----- Step " + step + " of task '" + task + "' reach in " + diff + " ms.");
@@ -675,12 +675,17 @@ public class DebugTools {
 
         public void finish(String message) {
             // Ending date
-            long end = new Date().getTime();
+            long end = System.currentTimeMillis();
             long diff = end - start;
 
             d("<---- End of task '" + task + "' in " + diff + " ms"
               + (TextUtils.isEmpty(message) ? "" : ": " + message));
         }
+
+        public long diff() {
+            return System.currentTimeMillis() - start;
+        }
+
     }
 
     // Logger class to add a category tag in prefix of each log
